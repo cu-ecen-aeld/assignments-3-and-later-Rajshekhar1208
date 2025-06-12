@@ -22,5 +22,5 @@ void test_validate_my_username()
 
 	const char* B =  malloc_username_from_conf_file();
 
-  TEST_ASSERT_EQUAL_STRING_MESSAGE(A,B,"usernames do not match");
+        TEST_ASSERT_EQUAL_STRING_MESSAGE(A,B,"usernames do not match correct it");
 }
