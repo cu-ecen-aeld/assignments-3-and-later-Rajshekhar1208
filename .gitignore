@@ -12,3 +12,4 @@ toolchain/
 *.o
 writer
 
+actions-runner/
