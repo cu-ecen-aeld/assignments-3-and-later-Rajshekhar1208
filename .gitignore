@@ -6,3 +6,9 @@ crosstool-ng
 aesd-build
 .vscode/
 test.sh.log
+actions-runner/
+toolchain/
+*.tar.xz
+*.o
+writer
+
