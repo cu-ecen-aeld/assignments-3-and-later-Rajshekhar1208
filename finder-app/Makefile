@@ -1,4 +1,4 @@
-CC = $(CROSS_COMPILE)gcc
+CC = gcc
 
 CFLAGS = -Wall -Werror
 
