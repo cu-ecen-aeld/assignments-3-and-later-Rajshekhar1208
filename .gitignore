@@ -11,5 +11,6 @@ toolchain/
 *.tar.xz
 *.o
 writer
-
+sshkey
+sshkey.pub
 
