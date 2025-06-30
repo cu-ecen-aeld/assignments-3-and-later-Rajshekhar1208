@@ -18,7 +18,7 @@
 #include <stdbool.h>
 
 /* Defines */
-#define USE_AESD_CHAR_DEVICE 1
+#define USE_AESD_CHAR_DEVICE 0
 #define MYPORT "9000" // the port users will be connecting to
 #define BACKLOG 10    // how many pending connections queue will hold
 #define LEN 100
