@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Running test script"
-
+./finder-test.sh
 cd /home  # Force working directory
 
 
