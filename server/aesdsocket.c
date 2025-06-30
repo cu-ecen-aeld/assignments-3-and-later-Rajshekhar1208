@@ -23,11 +23,9 @@
 #define BACKLOG 10    // how many pending connections queue will hold
 #define LEN 100
 
-#if USE_AESD_CHAR_DEVICE
-    #define FILE_NAME "/dev/aesdchar"
-#else
+
     #define FILE_NAME "/var/tmp/aesdsocketdata"
-#endif
+
 
 #define MAX_BUFFER_LEN 50000
 
